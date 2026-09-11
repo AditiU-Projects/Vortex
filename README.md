@@ -4,7 +4,7 @@ A fast-paced 2D arcade game built in **JavaScript** using the **CodeHS Graphics 
 
 ---
 
-## 🎮 Features & Gameplay
+## Features & Gameplay
 
 * **Physics-Based Mechanics:** Hold or tap the `Spacebar` to apply upward momentum against simulated gravity.
 * **Procedural Obstacles:** Top and bottom barriers update continuously to test reaction times.
@@ -13,7 +13,7 @@ A fast-paced 2D arcade game built in **JavaScript** using the **CodeHS Graphics 
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## Tech Stack & Architecture
 
 * **Language:** JavaScript (ES6+)
 * **Environment:** CodeHS Graphics Library / HTML Canvas Sandbox
@@ -25,7 +25,7 @@ A fast-paced 2D arcade game built in **JavaScript** using the **CodeHS Graphics 
 
 ---
 
-## 🚀 How to Run Locally / In Sandbox
+## How to Run Locally / In Sandbox
 
 1. Open the source project in the [CodeHS Editor](https://codehs.com/sandbox/id/ics3u-culminating-aditi-An9kiK).
 2. Click **Run** in the execution panel.
