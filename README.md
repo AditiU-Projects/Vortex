@@ -27,7 +27,7 @@ A fast-paced 2D arcade game built in **JavaScript** using the **CodeHS Graphics 
 
 ## How to Run Locally / In Sandbox
 
-1. Open the source project in the [CodeHS Editor](https://codehs.com/sandbox/id/ics3u-culminating-aditi-An9kiK).
+1. Open the source project in the [CodeHS Editor](https://codehs.com/sandbox/robkahloncodehs/ics3u-culminating-aditi).
 2. Click **Run** in the execution panel.
 3. Click inside the canvas viewport to ensure focus.
 4. Press `Spacebar` to launch the ship and start dodging obstacles!
